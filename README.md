@@ -16,4 +16,4 @@ The data is loaded and parsed using python library functions. Custom functions a
 **Branch: Main**
 - **datasets\housing** - contains the original data in the easy_ham and spam sub-folders.
 - **Spam_classifier.ipynb** - contains all the code used to transform the data and build the model.
-- **spam_email.pkl** is the model itself after being trained saved using the joblib function.
+- **spam_email.pkl** is the model itself after being trained; saved using the joblib function.
